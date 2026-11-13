@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+venv/
+.env
+.env.example
+tests/
+docs/
+scripts/
+*.md
+.github/
+backups/
+.ruff_cache/
